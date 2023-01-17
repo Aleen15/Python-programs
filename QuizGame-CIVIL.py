@@ -1,4 +1,4 @@
-print("Welcome To Our CSE Quiz")
+print("Welcome To Our CIVIL Quiz")
 
 playing = input("Do You Want To Play?\n")
 
